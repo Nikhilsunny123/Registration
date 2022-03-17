@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nikhilsunny123/Registration.git/static/css/main.9678a0a5.css",
+    "main.js": "/Nikhilsunny123/Registration.git/static/js/main.87c39a24.js",
+    "static/js/787.24e9e548.chunk.js": "/Nikhilsunny123/Registration.git/static/js/787.24e9e548.chunk.js",
+    "index.html": "/Nikhilsunny123/Registration.git/index.html",
+    "main.9678a0a5.css.map": "/Nikhilsunny123/Registration.git/static/css/main.9678a0a5.css.map",
+    "main.87c39a24.js.map": "/Nikhilsunny123/Registration.git/static/js/main.87c39a24.js.map",
+    "787.24e9e548.chunk.js.map": "/Nikhilsunny123/Registration.git/static/js/787.24e9e548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9678a0a5.css",
+    "static/js/main.87c39a24.js"
+  ]
+}
